@@ -1,0 +1,5 @@
+$(function () {
+
+    $('#contact-form').validator();
+
+});
